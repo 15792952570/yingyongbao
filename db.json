@@ -1,0 +1,12 @@
+{
+  "data": {
+    "code": "200",
+    "success": true,
+    "bodyData": {
+      "url": "",
+      "setting": false,
+      "app": "荣顺",
+      "version": "1.0.0"
+    }
+  }
+}
